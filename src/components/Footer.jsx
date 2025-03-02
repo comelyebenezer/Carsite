@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-<footer className="bg-gray-100 mt-5">
+<footer className="bg-[#e7e5efd3] mt-5">
   <div className="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
     <div className="flex justify-center text-teal-600">
       <svg className="h-8" viewBox="0 0 118 24" fill="none" xmlns="http://www.w3.org/2000/svg">

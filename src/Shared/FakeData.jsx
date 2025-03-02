@@ -6,7 +6,7 @@ function createRandomeCarList(){
         model:faker.vehicle.model(),
         type:faker.vehicle.type(),
         
-        image:'https://www.usnews.com/object/image/0000018f-cfa8-d140-afdf-dfea657d0001/24-bmw-530i-ext1.jpg?update-time=1717175974506&size=responsiveGallery',
+        image:'https://media.cnn.com/api/v1/images/stellar/prod/2024-08-17t153837z-1112799281-rc2rh9a4cjxd-rtrmadp-3-ukraine-crisis-russia-tesla.JPG?c=16x9&q=w_1280,c_fill',
         miles:1000,
         gearType:'Automatic',
         price:faker.finance.amount({min:4000, max:20000})

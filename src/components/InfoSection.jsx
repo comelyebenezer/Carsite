@@ -35,7 +35,7 @@ function InfoSection() {
 		</div>
 		<div className="lg:w-1/2 xl:w-3/5 dark:bg-gray-100">
 			<div className="flex items-center justify-center p-4 md:p-8 lg:p-12">
-				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRRozSp_Gj2zPWgX-TOE9gIvcqKedj_XSwUg&s" alt="" className="rounded-lg shadow-lg dark:bg-gray-500 aspect-video sm:min-h-96" />
+				<img src="https://fox5sandiego.com/wp-content/uploads/sites/15/2024/06/AP24177372087994-e1719361767793.jpg?w=1280" alt="" className="rounded-lg shadow-lg dark:bg-gray-500 aspect-video sm:min-h-96" />
 			</div>
 		</div>
 	</div>
